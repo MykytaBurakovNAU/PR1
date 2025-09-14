@@ -1,0 +1,11 @@
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\net8.0\MyLib.deps.json
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\net8.0\MyLib.dll
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\bin\Debug\net8.0\MyLib.pdb
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\MyLib.AssemblyInfo.cs
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\MyLib.dll
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\refint\MyLib.dll
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\MyLib.pdb
+C:\Users\nikit\source\repos\ClassLibrary1\ClassLibrary2\obj\Debug\net8.0\ref\MyLib.dll
